@@ -5,7 +5,7 @@ actionText: Hello Zasland →
 actionLink: /docs/
 features:
 - title: Zasland Blog Site
-  details: Use the ”Deploy to Netlify“ button below to create a new VuePress installation with one simple click. Get my wonderful VuePress theme for free.
+  details: Zasland is the travel consultancy provider-when you want, in need!
 - title: ZASLAND!
   details: You need a Github and a Netlify account. Otherwise the Deploy Button doesn't work.
 - title: Travel-Business-Medical-Education
