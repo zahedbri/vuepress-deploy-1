@@ -5,6 +5,8 @@ admin_path: zasland admin
 webhook_url: https://zasland-c79a66.netlify.com/webhook
 sections:
 - type: heading
+  label: Task
+- type: heading
   label: Zasland
 - type: document
   path: https://github.com/zahedbri/vuepress-deploy-1/tree/master/docs
