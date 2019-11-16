@@ -1,6 +1,7 @@
 ---
 label: Higher Study
 hide_body: true
+display_field: study_abroad
 fields:
 - name: study_abroad
   type: text
