@@ -3,7 +3,11 @@ new_page_extension: md
 auto_deploy: false
 admin_path: zasland admin
 webhook_url: https://zasland-c79a66.netlify.com/webhook
-sections: 
+sections:
+- type: document
+  path: https://github.com/zahedbri/vuepress-deploy-1/tree/master/docs
+  label: zasland docs
+  match: "**/*"
 upload_dir: uploads
 public_path: "/uploads"
 front_matter_path: ''
