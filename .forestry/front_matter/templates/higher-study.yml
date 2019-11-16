@@ -1,4 +1,10 @@
 ---
 label: Higher Study
 hide_body: true
-fields: []
+fields:
+- name: study_abroad
+  type: text
+  config:
+    required: false
+  label: Study Abroad
+  description: A blog on study abroad
